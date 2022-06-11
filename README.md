@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Phuc Duong
-
+### Hi there 👋, I'm Nguyễn Quốc Việt
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47le70j57j3em0g6o1okceozwij6le9apnsasxazfz&rid=giphy.gif&ct=g" width="250"/>
   <div id="badges">
