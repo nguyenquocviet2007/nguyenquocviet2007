@@ -16,10 +16,11 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
   - 🔭 I’m currently self-studying and working on backend web development
-  - 🌱 I’m currently learning NodeJS, NestJS, Typescript
+  - 🌱 I’m currently learning NodeJS, NestJS, ReactJS, Typescript
   - ⚡ I'm experienced with web-app development with NodeJS in backend side. Willing to learn new frameworks.
+  - 🗓 In the near future at the end of next year, I hope to learn a new language related to web-applications, Golang.
   - 😄 I have knowledge about backend development by Nodejs/ExpressJs
   - 💬 Ask me about anything, I'm happly to help!
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/viet-nguyen-4b6391195/)
