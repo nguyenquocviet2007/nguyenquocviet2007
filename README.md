@@ -17,31 +17,23 @@
 ---
 
 ### :man_technologist: About Me :
-  - 🔭 I’m currently self-studying and working on backend web development
-  - 🌱 I’m currently learning NodeJS, NestJS, ReactJS, Typescript
-  - ⚡ I'm experienced with web-app development with NodeJS in backend side. Willing to learn new frameworks.
-  - 🗓 In the near future at the end of next year, I hope to learn a new language related to web-applications, Golang.
-  - 😄 I have knowledge about backend development by Nodejs/ExpressJs
+  - 🔭 I’m currently working on Software Engineer Role.
+  - 🌱 I’m currently working with Typescript, NodeJS, Angular, Java, Spring Framework, Spring Boot.
   - 💬 Ask me about anything, I'm happly to help!
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/viet-nguyen-4b6391195/)
-
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
